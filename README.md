@@ -1,4 +1,4 @@
-# PROGECT_EDA
+# student-performance-prediction
 # 🎓 Student Performance Prediction using Linear Regression
 
 ## 📌 Project Overview
