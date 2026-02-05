@@ -98,5 +98,3 @@ Future improvements may include using advanced machine learning models such as R
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/student-performance-prediction.git
-ahmed ma
-ahmed jsjs
